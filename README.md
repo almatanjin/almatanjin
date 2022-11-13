@@ -5,7 +5,19 @@
 - ⚡ Fun Fact Completely Extrovert<br>
 - <br><br>
 
-<h3 align="center">Connect with me:</h3><br>
+**Language & Framework I prefer** 
+
+```text
+Python                                      ███████░░░░░░░░░░░░░░░░░░   
+PHP                                         ██████░░░░░░░░░░░░░░░░░░░   
+Django                                      ██░░░░░░░░░░░░░░░░░░░░░░░   
+Laravel                                     ██░░░░░░░░░░░░░░░░░░░░░░░   
+JavaScript                                  ██░░░░░░░░░░░░░░░░░░░░░░░  
+Vue.js                                      ██░░░░░░░░░░░░░░░░░░░░░░░ 
+CSS                                         ██░░░░░░░░░░░░░░░░░░░░░░░ 
+```
+
+<h3 align="left">Connect with me:</h3><br>
 <a href="https://twitter.com/tanjin_alma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" align="center" alt="tanjin_alma" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/alma-tanjin-88339324a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alma" height="30" width="20" /></a>
 <a href="https://www.facebook.com/alma.tanjin.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="almatanjin" height="20" width="30" /></a>
