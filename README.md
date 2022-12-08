@@ -1,5 +1,5 @@
 <h1 align="center">I'm Alma Tanjin</h1>
-<h3 align="center">Web Developer and Researcher</h3><br>
+<h3 align="center">Software Engineer and Researcher</h3><br>
 - 💞️ I’m looking to collaborate on Laravel || Vue.js || Django<br>
 - 📫 How to reach me almatanjin18@gmail.com<br>
 - ⚡ Fun Fact Completely Extrovert<br>
